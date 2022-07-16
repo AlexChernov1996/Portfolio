@@ -9,8 +9,9 @@ const Contacts = () => {
                     <input type="text"/>
                     <input type="text"/>
                     <textarea cols="30" rows="10"></textarea>
+                    <button type='submit'>Send</button>
                 </form>
-                <button>Send</button>
+
 
             </div>
 
